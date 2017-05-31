@@ -15,7 +15,7 @@
 ![移动端二维码](https://github.com/lxyisme/vue-musicApp/blob/master/preview/1494160244.png)
 
 ### 预览图
-![Vue音乐播放器](https://github.com/921227965/vue-musicApp/blob/master/preview/preview.gif?raw=true)
+![Vue音乐播放器](https://lizengguangxx.github.io/vue2.0/index.html)
 
 ## 使用 Build Setup
 
