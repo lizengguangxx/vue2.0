@@ -10,7 +10,7 @@
 
 
 ### 在线预览
-在线预览地址： [Vue音乐播放器](https://lxyisme.github.io) (PC端请在浏览器的移动端模式下查看)
+在线预览地址： [Vue音乐播放器](https://lizengguangxx.github.io/vue2.0/index.html) (PC端请在浏览器的移动端模式下查看)
 
 ![移动端二维码](https://github.com/lxyisme/vue-musicApp/blob/master/preview/1494160244.png)
 
